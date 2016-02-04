@@ -178,7 +178,7 @@ For more information, visit the
 <!-- **More Information** -->
 
 ## PriMedLink
-[PriMedLink](/logos/PriMedLink.jpg)
+![PriMedLink](/logos/PriMedLink.jpg)
 
 Information technology has increasingly been used to support healthcare applications and clinical research. Medical data are recorded electronically to enable better patient care, resource management, advanced treatments, detection and prevention of diseases, risk management, clinical trials, and health surveillance more efficiently and effectively. Such digital medical data also support clinical research through the linkage and aggregation of records corresponding to same patients, matching of similar patients, and statistical analysis of observations gathered from populations of patients.
 
