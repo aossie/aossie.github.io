@@ -32,7 +32,7 @@ You'll get a chance to hack on exciting open-source projects, build up your GitH
 
 ## Extempore
 
-![Extempore](./Logos/extempore.png)
+![Extempore](logos/extempore.png)
 
 Extempore is an [open-source](https://github.com/digego/extempore)
 (MIT Licence) programming language and runtime environment designed to
@@ -178,7 +178,7 @@ For more information, visit the
 <!-- **More Information** -->
 
 ## PriMedLink
-[PriMedLink](Logos/PriMedLink.jpg)
+[PriMedLink](logos/PriMedLink.jpg)
 
 Information technology has increasingly been used to support healthcare applications and clinical research. Medical data are recorded electronically to enable better patient care, resource management, advanced treatments, detection and prevention of diseases, risk management, clinical trials, and health surveillance more efficiently and effectively. Such digital medical data also support clinical research through the linkage and aggregation of records corresponding to same patients, matching of similar patients, and statistical analysis of observations gathered from populations of patients.
 
@@ -221,13 +221,23 @@ Dinusha Vatsalan, Peter Christen
 
 The following materials provide specific background literature on medical data, different data structures used for medical data storage and representation, and different masking functions for privacy-preservation that will be required to conduct the project.
 
-* A taxonomy of privacy-preserving record linkage techniques (Dinusha Vatsalan, Peter Christen, and Vassilios S. Verykios, Elsevier Journal of Information Systems 2013, http://www.sciencedirect.com/science/article/pii/S0306437912001470)
+* A taxonomy of privacy-preserving record linkage techniques. Dinusha
+  Vatsalan, Peter Christen, and Vassilios S. Verykios, Elsevier
+  Journal of Information Systems 2013,
+  (http://www.sciencedirect.com/science/article/pii/S0306437912001470)
 
-* Data driven analytics in Healthcare: Problems, Challenges, and Future Directions (Fei Wang, ACM CIKM 2014, https://sites.google.com/site/feiwang03/cikm14-tutorial)
+* Data driven analytics in Healthcare: Problems, Challenges, and
+  Future Directions (Fei Wang, ACM CIKM 2014,
+  https://sites.google.com/site/feiwang03/cikm14-tutorial)
 
-* Medical Data: Their acquisition, storage, and use (Edward H. Shortliffe and G. Octo Barnett, ACM Medical Informatics: Computer Applications in Healthcare, http://dl.acm.org/citation.cfm?id=87788)
+* Medical Data: Their acquisition, storage, and use. Edward H.
+  Shortliffe and G. Octo Barnett, ACM Medical Informatics: Computer
+  Applications in Healthcare,
+  (http://dl.acm.org/citation.cfm?id=87788)
 
-* Standardized vectorial representation of medical data in patient records (Wolfgang Orthuber and Efthymios Papavramidis, Medical and Care Compunetics 2010, http://www.orthuber.com/wICMCC2010.pdf)
+* Standardized vectorial representation of medical data in patient
+  records. Wolfgang Orthuber and Efthymios Papavramidis, Medical and
+  Care Compunetics 2010, (http://www.orthuber.com/wICMCC2010.pdf)
 
 ### PriMedLink's Project idea 2: Private medical data comparison functions for similar patient matching
 
@@ -263,9 +273,20 @@ Dinusha Vatsalan, Peter Christen
 
 The following background materials provide some basic understandings on data masking and similarity calculations for approximate matching.
 
-* Privacy-preserving matching of similar patients (Dinusha Vatsalan and Peter Christen, Elsevier Journal of Biomedical Informatics, 2016, http://www.sciencedirect.com/science/article/pii/S1532046415002841)
-* A taxonomy of privacy-preserving record linkage techniques (Dinusha Vatsalan, Peter Christen, and Vassilios S. Verykios, Elsevier Journal of Information Systems 2013, http://www.sciencedirect.com/science/article/pii/S0306437912001470)
-* Data Matching: Concepts and Techniques for Record Linkage, Entity Resolution, and Duplicate Detection (Peter Christen, Springer Data-Centric Systems and Applications 2012, http://www.springer.com/gp/book/9783642311635)
+* Privacy-preserving matching of similar patients. Dinusha Vatsalan
+  and Peter Christen, Elsevier Journal of Biomedical Informatics,
+  2016,
+  (http://www.sciencedirect.com/science/article/pii/S1532046415002841)
+
+* A taxonomy of privacy-preserving record linkage techniques. Dinusha
+  Vatsalan, Peter Christen, and Vassilios S. Verykios, Elsevier
+  Journal of Information Systems 2013,
+  (http://www.sciencedirect.com/science/article/pii/S0306437912001470)
+
+* Data Matching: Concepts and Techniques for Record Linkage, Entity
+  Resolution, and Duplicate Detection. Peter Christen, Springer
+  Data-Centric Systems and Applications 2012,
+  (http://www.springer.com/gp/book/9783642311635)
   
 
 ### PriMedLink's Project idea 3: Flexible and realistic synthetic medical data generator
@@ -303,15 +324,31 @@ Dinusha Vatsalan, Peter Christen
 
 The following materials provide specific background literature on medical data, different data types, and characteristics of synthetic data generators that will be required to conduct the project.
 
-* Flexible and extensible generation and corruption of personal data (Peter Christen and Dinusha Vatsalan, ACM CIKM 2014, http://dl.acm.org/citation.cfm?id=2507815)
-* GeCo: an online personal data generator and corruptor (Khoi-Nguyen Tran, Dinusha Vatsalan, and Peter Christen, ACM CIKM 2014, http://dl.acm.org/citation.cfm?id=2508207)
-* Medical Data: Their acquisition, storage, and use (Edward H. Shortliffe and G. Octo Barnett, ACM Medical Informatics: Computer Applications in Healthcare, http://dl.acm.org/citation.cfm?id=87788)
-* A Method for Generation and Distribution of Synthetic Medical Record Data for Evaluation of Disease-Monitoring System (Joseph S. Lombardo and Linda J. Moniz, Johns Hopkins APL Technical Digest 2008, http://techdigest.jhuapl.edu/TD/td2704/LombardoMethod.pdf)
-* Customized test data generator for HL7v3 based healthcare information systems (Alexandru Egner et al., Journal of Control Engineering and Applied Informatics 2013, http://www.ceai.srait.ro/index.php/ceai/article/view/1287/1260)
+* Flexible and extensible generation and corruption of personal data.
+  Peter Christen and Dinusha Vatsalan, ACM CIKM 2014,
+  (http://dl.acm.org/citation.cfm?id=2507815)
+
+* GeCo: an online personal data generator and corruptor. Khoi-Nguyen
+  Tran, Dinusha Vatsalan, and Peter Christen, ACM CIKM 2014,
+  (http://dl.acm.org/citation.cfm?id=2508207)
+
+* Medical Data: Their acquisition, storage, and use. Edward H.
+  Shortliffe and G. Octo Barnett, ACM Medical Informatics: Computer
+  Applications in Healthcare, (http://dl.acm.org/citation.cfm?id=87788)
+
+* A Method for Generation and Distribution of Synthetic Medical Record
+  Data for Evaluation of Disease-Monitoring System. Joseph S. Lombardo
+  and Linda J. Moniz, Johns Hopkins APL Technical Digest 2008,
+  (http://techdigest.jhuapl.edu/TD/td2704/LombardoMethod.pdf)
+
+* Customized test data generator for HL7v3 based healthcare
+  information systems. Alexandru Egner et al., Journal of Control
+  Engineering and Applied Informatics 2013,
+  (http://www.ceai.srait.ro/index.php/ceai/article/view/1287/1260)
 
 
 ## Rogas
-![Rogas](https://gitlab.cecs.anu.edu.au/u2548636/gsoc-website/tree/master/website/Logos)
+![Rogas](logos/Rogas.png)
 
 [Rogas](https://github.com/CornucopiaRG/Rogas) is a platform for network analytics which integrates a collection of graph analysis tools and algorithms into a unified framework in order to support various network analysis tasks efficiently and effectively. 
 
