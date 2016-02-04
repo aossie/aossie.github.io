@@ -32,7 +32,7 @@ You'll get a chance to hack on exciting open-source projects, build up your GitH
 
 ## Extempore
 
-![Extempore](logos/extempore.png)
+![Extempore](/logos/extempore.png)
 
 Extempore is an [open-source](https://github.com/digego/extempore)
 (MIT Licence) programming language and runtime environment designed to
@@ -178,7 +178,7 @@ For more information, visit the
 <!-- **More Information** -->
 
 ## PriMedLink
-[PriMedLink](logos/PriMedLink.jpg)
+[PriMedLink](/logos/PriMedLink.jpg)
 
 Information technology has increasingly been used to support healthcare applications and clinical research. Medical data are recorded electronically to enable better patient care, resource management, advanced treatments, detection and prevention of diseases, risk management, clinical trials, and health surveillance more efficiently and effectively. Such digital medical data also support clinical research through the linkage and aggregation of records corresponding to same patients, matching of similar patients, and statistical analysis of observations gathered from populations of patients.
 
@@ -348,7 +348,7 @@ The following materials provide specific background literature on medical data, 
 
 
 ## Rogas
-![Rogas](logos/Rogas.png)
+![Rogas](/logos/Rogas.png)
 
 [Rogas](https://github.com/CornucopiaRG/Rogas) is a platform for network analytics which integrates a collection of graph analysis tools and algorithms into a unified framework in order to support various network analysis tasks efficiently and effectively. 
 
@@ -543,35 +543,35 @@ Instructions on how to improve your chances of getting accepted are listed on [S
 
 [Dr. Ekaterina Lebedeva](https://github.com/Paradoxika/Skeptik)
 * Mentor for the Skeptik project
-![Katya](members/Katya.jpg)
+![Katya](/members/Katya.jpg)
 
 [Dr. Ben Swift](http://benswift.me)
 * Mentor for the [Extempore](https://github.com/digego/extempore) project
-![Ben](members/Ben.jpg)
+![Ben](/members/Ben.jpg)
 
 [Mr. Andrew Sorensen](https://github.com/digego)
 * Mentor for the [Extempore](https://github.com/digego/extempore) project
-![Andrew](members/Andrew.jpg)
+![Andrew](/members/Andrew.jpg)
 
 [Dr. Dinusha Vatsalan](https://cs.anu.edu.au/people/dr-dinusha-vatsalan)
 * Mentor for the PriMedLink project
-![Dinusha](members/Dinusha.jpg)
+![Dinusha](/members/Dinusha.jpg)
 
 [Prof. Peter Christen](https://cs.anu.edu.au/people/Peter.Christen/)
 * Mentor for the PriMedLink project
-![Peter](members/Peter.jpg)
+![Peter](/members/Peter.jpg)
 
 [Dr. Qing Wang](http://users.cecs.anu.edu.au/~u5170295)
 * Mentor for the Rogas project
-![Qing](members/Qing.jpg)
+![Qing](/members/Qing.jpg)
 
 [Mr. Minjian Liu](http://people.cecs.anu.edu.au/user/5553)
 * Mentor for the Rogas project
-![Minjian](members/Minjian.jpg)
+![Minjian](/members/Minjian.jpg)
 
 [Dr. Bruno Woltzenlogel Paleo](http://paleo.woltzenlogel.org)
 * Mentor for the Skeptik project
-![Bruno](members/Bruno.jpg)
+![Bruno](/members/Bruno.jpg)
 
 
 
