@@ -543,35 +543,35 @@ Instructions on how to improve your chances of getting accepted are listed on [S
 
 [Dr. Ekaterina Lebedeva](https://github.com/Paradoxika/Skeptik)
 * Mentor for the Skeptik project
-![Katya](https://cs.anu.edu.au/sites/default/files/styles/acton_person/public/images/people/lebedeva_2015.jpg?itok=UiFCkG5q)
+![Katya](members/Katya.jpg)
 
 [Dr. Ben Swift](http://benswift.me)
 * Mentor for the [Extempore](https://github.com/digego/extempore) project
-![Ben](ToDo:Foto)
+![Ben](members/Ben.jpg)
 
 [Mr. Andrew Sorensen](https://github.com/digego)
 * Mentor for the [Extempore](https://github.com/digego/extempore) project
-![Ben](ToDo:Foto)
+![Andrew](members/Andrew.jpg)
 
 [Dr. Dinusha Vatsalan](https://cs.anu.edu.au/people/dr-dinusha-vatsalan)
 * Mentor for the PriMedLink project
-![Dinusha](ToDo:Foto)
+![Dinusha](members/Dinusha.jpg)
 
 [Prof. Peter Christen](https://cs.anu.edu.au/people/Peter.Christen/)
 * Mentor for the PriMedLink project
-![Peter](ToDo:Foto)
+![Peter](members/Peter.jpg)
 
 [Dr. Qing Wang](http://users.cecs.anu.edu.au/~u5170295)
 * Mentor for the Rogas project
-![Qing](ToDo:Foto)
+![Qing](members/Qing.jpg)
 
 [Mr. Minjian Liu](http://people.cecs.anu.edu.au/user/5553)
 * Mentor for the Rogas project
-![Minjian](ToDo:Foto)
+![Minjian](members/Minjian.jpg)
 
 [Dr. Bruno Woltzenlogel Paleo](http://paleo.woltzenlogel.org)
 * Mentor for the Skeptik project
-![Bruno](http://logic.at/staff/bruno/img/team/foto2014.jpg)
+![Bruno](members/Bruno.jpg)
 
 
 
